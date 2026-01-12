@@ -1,0 +1,9 @@
+date,hour,website,minutes,category
+12-01-2026,9,github.com,40,productive
+12-01-2026,9,youtube.com,20,distracting
+12-01-2026,10,leetcode.com,60,productive
+12-01-2026,11,google.com,30,neutral
+12-01-2026,11,instagram.com,30,distracting
+12-01-2026,14,docs.python.org,60,productive
+12-01-2026,15,youtube.com,45,distracting
+12-01-2026,16,github.com,60,productive
